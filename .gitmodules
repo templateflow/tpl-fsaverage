@@ -1,0 +1,3 @@
+[submodule "tpl-fsaverage"]
+	path = tpl-fsaverage
+	url = git@github.com:templateflow/tpl-fsaverage.git
