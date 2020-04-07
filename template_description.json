@@ -1,8 +1,9 @@
 {
-  "Acknowledgements": "Curated and added to TemplateFlow by Esteban O",
   "Authors": [],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "",
+  "Curators": [
+    "Esteban O"
+  ],
   "Identifier": "fsaverage",
   "License": "See LICENSE file",
   "Name": "FreeSurfer's fsaverage template",
