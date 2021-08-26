@@ -1,0 +1,2 @@
+59e68276-d464-4fa4-b587-215d22964b3b bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-fsaverage/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1583952431.527201s
+c04eb54b-4b4e-5755-8436-866b043170fa autoenable=true encryption=none externaltype=datalad-archives name=datalad-archives type=external uuid=c04eb54b-4b4e-5755-8436-866b043170fa timestamp=1547599304.702558783s
