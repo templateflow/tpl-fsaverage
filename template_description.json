@@ -7,7 +7,9 @@
   "Identifier": "fsaverage",
   "License": "See LICENSE file",
   "Name": "FreeSurfer's fsaverage template",
-  "ReferencesAndLinks": [],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1002/(sici)1097-0193(1999)8:4%3C272::aid-hbm10%3E3.0.co;2-4"
+  ],
   "Species": "Homo sapiens",
   "TemplateFlowVersion": "1.0.0",
   "res": {
