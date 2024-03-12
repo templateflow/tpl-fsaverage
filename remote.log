@@ -1,3 +1,7 @@
+ autoenable=true location=https://git.g-node.org/templateflow/tpl-fsaverage.git name=gin type=git timestamp=1629967370.581385s
+544b0f22-cb98-48d5-8f34-5630c0e38c1e autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-fsaverage/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1641385353.521279s
 59e68276-d464-4fa4-b587-215d22964b3b bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-fsaverage/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1583952431.527201s
+59e68276-d464-4fa4-b587-215d22964b3b bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-fsaverage/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 timestamp=1641381146.624125s
 702b8f68-d1b0-4e68-b6db-b015fb4c53bb autoenable=true location=https://gin.g-node.org/templateflow/tpl-fsaverage name=gin type=git timestamp=1630074581.381541s
+702b8f68-d1b0-4e68-b6db-b015fb4c53bb autoenable=true location=https://gin.g-node.org/templateflow/tpl-fsaverage name=gin-src type=git timestamp=1641508064.162885s
 c04eb54b-4b4e-5755-8436-866b043170fa autoenable=true encryption=none externaltype=datalad-archives name=datalad-archives type=external uuid=c04eb54b-4b4e-5755-8436-866b043170fa timestamp=1547599304.702558783s
