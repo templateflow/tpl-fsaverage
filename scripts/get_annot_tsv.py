@@ -88,12 +88,12 @@ def run(input_annot, output_tsv, encoding="utf-8"):
 
     input_annot = Path(input_annot)
     lh_annot = (
-        input_annot if input_annot.name.startswith('l')
-        else input_annot.parent / input_annot.name.replace('r', 'l')
+        input_annot if input_annot.name.startswith('lh')
+        else input_annot.parent / input_annot.name.replace('rh', 'lh')
     )
     rh_annot = (
-        input_annot if input_annot.name.startswith('r')
-        else input_annot.parent / input_annot.name.replace('l', 'r')
+        input_annot if input_annot.name.startswith('rh')
+        else input_annot.parent / input_annot.name.replace('lh', 'rh')
     )
 
     df = pd.concat([
